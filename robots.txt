@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pookeepoh.cache51.com/sitemap.xml
